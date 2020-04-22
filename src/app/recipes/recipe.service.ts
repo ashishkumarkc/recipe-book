@@ -20,7 +20,7 @@ export class RecipeService {
     new Recipe('Summer Salad', 'This fresh and flavorful salad features buttery yellow corn tossed with chunks of tomato and onion with a fresh basil vinaigrette.', 'assets/images/summer_salad.jpg', [
       new Ingredient('Corn', 2),
       new Ingredient('Tomatoes', 4),
-      new Ingredient('Onion', 1),
+      new Ingredient('Onions', 2),
       new Ingredient('White Vinegar', 1)
     ]),
     new Recipe('Pasta Rustica', 'Green Ripe Olives - or even a mixture of both - are tossed into this Pasta Rustica, bringing together the flavors of sweet bell pepper, mellow olive oil, and spicy pepper flakes. Finish with Parmesan cheese, and enjoy!', 'assets/images/pasta_rustica.jpg', [
